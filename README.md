@@ -1,8 +1,13 @@
 # About-me
 
-Welcome to my Repository! Hello, I’m Jackson Joy 🙋‍♂️
-I’m interested in Data Science (Artificial Intelligence / Machine Learning), Python I have worked on different AI ML & DL learning projects
-I’m currently pursuing Final Year in BE Computer Science(AIML) 
-I’m looking to collaborate on major projects or with any team, from which I can develop more knowledge & new skills Exploring & Learning more about Data Science
-How to reach me ... @chittecarajackson@gmail.com 
-Thank You for visiting my Github ❤
+Hi there! I'm Jackson, a "Data Scientist", "Data Analyst" passionate about Data Analysis, Data visualization, Machine learning models, Data Science.
+
+🔭 I’m have worked on projects like 'Crime File Management System', 'Image to Text Extraction using OCR', 'Multiple Disease Prediction', 'Car Price Predicton', 'IPL win team Predictor', Breast Cancer Detection', 'Species & Biodiversity Analysis', 'Marketing Analysis', 'Stock Price Analysis'.
+
+🌱 I’m always learning and exploring new technologies and methodologies. My primary tech stack includes Python, Data Analysis, Descriptive Analysis, Machine Learning, EDA, ETL, Data Visualizations, Power BI, Tableau.
+
+📫 How to reach me: chittecarajackson@gmail.com
+
+⚡ Fun fact: I play Football, do Dance. I love playing pc games.
+
+
