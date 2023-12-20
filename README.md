@@ -1,6 +1,5 @@
 # About-me
-
-Hi there! I'm Jackson, a "Data Scientist", "Data Analyst" who is passionate about Data Analysis, Data visualization, Machine learning models, Data Science.
+👋 Hi there! I'm Jackson, a "Data Scientist", "Data Analyst" who is passionate about Data Analysis, Data visualization, Machine learning models, Data Science.
 
 🔭 I’m have worked on projects like 'Crime File Management System', 'Image to Text Extraction using OCR', 'Multiple Disease Prediction', 'Car Price Predicton', 'IPL win team Predictor', Breast Cancer Detection', 'Species & Biodiversity Analysis', 'Marketing Analysis', 'Stock Price Analysis'.
 
