@@ -6,7 +6,7 @@ Hi there! I'm Jackson, a "Data Scientist", "Data Analyst" who is passionate abou
 
 🌱 I’m always learning and exploring new technologies and methodologies. My primary tech stack includes Python, Data Analysis, Descriptive Analysis, Machine Learning, EDA, ETL, Data Visualizations, Power BI, Tableau.
 
-📫 How to reach me: chittecarajackson@gmail.com
+📫 How to reach me: chittecarajackson@gmail.com   https://www.linkedin.com/in/jackson-joy-a49702280/
 
 ⚡ Fun fact: I play Football, do Dance. I love playing pc games.
 
